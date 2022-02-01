@@ -1,0 +1,85 @@
+.trip{
+    position: relative;
+    top: 36px;
+    left: 516px;
+    font-size: 68px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr{
+    width: 122px;
+    position: relative;
+    top: -40px;
+    left: -244px;
+}
+.hr2{
+    width: 139px;
+    position: relative;
+    top: -53px;
+    right: -322px;
+}
+.backsymbol{
+    color: tomato;
+    position: relative;
+    left: 642px;
+    top: -15px;
+    font-size: 26px
+    }
+.btext{
+    color: thistle;
+    font-weight: lighter;
+    font-size: 16px;
+    position: relative;
+    left: 9px;
+    top: -2px;
+}
+.box{
+    position: relative;
+    top: 3px;
+    left: 520px;
+    border: 2px solid red ;
+    width: 389px;
+    height: 385px;
+    border-radius: 6px;
+
+}
+.box1{
+    font-size: 34px;
+    color: tomato;
+    position: absolute;
+    top: 46px;
+    left: 101px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+.hr4{
+    width: 292px;
+    position: relative;
+    top: 10px;
+    left: 47px;
+}
+.box2 {
+    font-size: 27px;
+    color: tomato;
+    top: 63px;
+    left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.form{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 108px;
+    left: 86px;
+    font-size: 25px;
+}
+
+.pluscircle {
+    color: tomato;
+    position: relative;
+    left: 332px;
+    top: 181px;
+    font-size: 22px;
+}
